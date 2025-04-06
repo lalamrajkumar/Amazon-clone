@@ -39,6 +39,9 @@ git clone https://github.com/your-username/amazon-clone.git
 
 ## 📸 Screenshot
 
+![Alt text](myimage.png)
+
+
 
 
 ## 🧑‍💻 Author
