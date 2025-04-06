@@ -47,4 +47,4 @@ git clone https://github.com/your-username/amazon-clone.git
 ## 🧑‍💻 Author
 
 - **Lalam Rajkumar**
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lalam-rajkumar-b0b524343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) (optional)
+- [LinkedIn](https://www.linkedin.com/in/lalam-rajkumar-b0b524343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
