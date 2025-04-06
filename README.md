@@ -39,7 +39,7 @@ git clone https://github.com/your-username/amazon-clone.git
 
 ## 📸 Screenshot
 
-_Add a screenshot of your app UI here_
+
 
 ## 🧑‍💻 Author
 
