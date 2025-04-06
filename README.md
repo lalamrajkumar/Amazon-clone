@@ -39,7 +39,7 @@ git clone https://github.com/your-username/amazon-clone.git
 
 ## 📸 Screenshot
 
-![Alt text](myimage.png)
+![Alt text]([myimage.png](https://github.com/lalamrajkumar/Amazon-clone/blob/ad71b3e6a391f25fb78348f2a51c883db35364a3/Image/Screenshot%202025-04-06%20235902.png))
 
 
 
