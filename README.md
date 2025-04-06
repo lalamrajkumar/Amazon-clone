@@ -13,10 +13,13 @@ A simple front-end clone of Amazon built using HTML, CSS, and JavaScript.
 
 ```
 amazon-clone/
-│
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet for UI
-└── app.js           # JavaScript logic
+├── index.html
+├── style.css
+├── app.js
+└── images/
+    ├── banner.jpg
+    └── logo.png
+
 ```
 
 ## 🛠️ Tech Stack
@@ -41,5 +44,4 @@ _Add a screenshot of your app UI here_
 ## 🧑‍💻 Author
 
 - **Lalam Rajkumar**
-- Pursuing M.Sc Data Science @ GITAM University
-- [LinkedIn](https://linkedin.com/in/your-profile) (optional)
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lalam-rajkumar-b0b524343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) (optional)
